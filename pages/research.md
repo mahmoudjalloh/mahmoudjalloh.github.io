@@ -4,7 +4,7 @@ title: Research
 category:
 permalink: /research
 ---
-#Philosophy and History of Dimensional Analysis
+# Philosophy and History of Dimensional Analysis
 
 My dissertation comprises a philosophical examination and exploitation of the fundamental principles of dimensional analysis and a partial history of its development. Dimensional analysis is a logical method largely, though not exclusively, used by physicists to derive functional equations and estimate quantity values. This method is based on the fact that our physical equations are quantitative and so specify equivalences between dimensional quantities. Roughly, we can consider quantity dimensions as kinds of quantities, with only quantities of like dimension being commensurable, e.g. mass, length, charge.
 
