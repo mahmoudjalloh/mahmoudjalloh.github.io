@@ -4,4 +4,9 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+I am Teaching Fellow at St. Johns College, Santa Fe. I teach the “Great Books”. Before moving to Santa Fe, I did a PhD in philosophy at the University of Southern California. Before moving to LA, I studied physics and philosophy at Northeastern University.
+
+I have interests in the history and philosophy of science, particularly physics, and related areas in metaphysics. I also have interests in the history of philosophy, particularly Kant, Wittgenstein, and phenomenology.
+
+You can also find my work online at [PhilPeople](https://philpeople.org/profiles/mahmoud-jalloh), [academic.edu](https://usc.academia.edu/MahmoudJalloh), and the [philsci-archive](http://philsci-archive.pitt.edu/id/user/66772).
+
